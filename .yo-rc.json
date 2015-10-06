@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "chrome extension",
+    "packageVersion": "0.0.1",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "KlavierCat",
+    "githubRepository": "dublinJS-chrome-extension"
+  }
+}
