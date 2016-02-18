@@ -8,6 +8,6 @@ Building & Packaging
 Panpan Lin
 <br/>
 <br/>
-<small>FED @ IBM Dublin</small>
+<small>Oct. 6th, 2015 @ <a>DublinJS</a></small>
 <br/>
-<small>Feb 17th, 2015</small>
+<small>Feb. 17th, 2016 @ FED@IBM</small>
