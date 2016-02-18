@@ -1,12 +1,17 @@
 [
-    "index.html",
+    "index.md",
+    [
+      "what.html",
+      "what-2.html"
+    ],
     "why-build-a-chrome-extension.html",
     [
-      "structure-of-a-chrome-extension.html",
-      "manifest.html"
+        "structure-of-a-chrome-extension.html",
+        "manifest.html"
     ],
     "unpack.html",
     "debug.html",
+    "testing.html",
     "packaging.html",
     [
         "deployment.html",
