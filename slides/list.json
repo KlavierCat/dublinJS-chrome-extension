@@ -1,0 +1,16 @@
+[
+    "index.html",
+    "why-build-a-chrome-extension.html",
+    [
+      "structure-of-a-chrome-extension.html",
+      "manifest.html"
+    ],
+    "unpack.html",
+    "debug.html",
+    "packaging.html",
+    [
+        "deployment.html",
+        "inline-installation.html"
+    ],
+    "resources.html"
+]

@@ -1,0 +1,10 @@
+<h2>inline-installation</h2>
+
+<p align="left">Put this in your &lt;head&gt; tag:</p>
+<pre><code class="hljs html">&lt;link rel=&quot;chrome-webstore-item&quot; href=&quot;https://chrome.google.com/webstore/detail/itemID&quot;&gt;</code></pre>
+<p align="left">Triggering inline installation:</p>
+<pre><code class="hljs JavaScript">chrome.webstore.install(url, successCallback, failureCallback)</code></pre>
+<p align="left">Checking if the extension is installed:</p>
+<pre><code class="hljs JavaScript">if (chrome.app.isInstalled) {
+  document.getElementById('install-button').style.display = 'none';
+}</code></pre>
